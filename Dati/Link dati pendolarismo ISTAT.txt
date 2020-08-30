@@ -1,0 +1,6 @@
+1) http://dati-censimentopopolazione.istat.it/Index.aspx  andare a sezione "Pendolarismo"
+
+2) http://dati.istat.it/ andare su Servizi -> Spostamenti -> scegliere categoria cercata
+
+ATT: entrambi i due link non portano a dati di spostamenti da citta 1 a citta 2 ;
+	per quelli è necessario vedere le matrici del pendolarismo del censimento ISTAT 2011
